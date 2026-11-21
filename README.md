@@ -9,7 +9,7 @@ mais tout reste sur ton PC.
 
 ## Télécharger
 
-1. Ouvre la [dernière version](https://github.com/XDTEAMDev/XDK-Clips-releases/releases/latest).
+1. Ouvre la [dernière version](https://github.com/xavstream/XDK-Clips-releases/releases/latest).
 2. Télécharge **`XDKClips.exe`** (le fichier `.sig` à côté sert seulement à vérifier les mises à jour).
 3. Lance-le. Au premier lancement, il télécharge FFmpeg (le moteur vidéo, environ 110 Mo), une seule fois.
 
